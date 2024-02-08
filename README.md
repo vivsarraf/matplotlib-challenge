@@ -6,6 +6,8 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
+![plot](https://github.com/vivsarraf/matplotlib-challenge/assets/135401654/99b6f049-a065-44d9-8d10-d33ee14e4197)
+
 
 ## Instructions
 This assignment is broken down into the following tasks:
