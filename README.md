@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# Matplotlib-Challenge
 
 # Background
 In this assignment, you’ll apply what you've learned about Matplotlib to a real-world situation and dataset.
@@ -25,7 +25,7 @@ This assignment is broken down into the following tasks:
 * Submit your final analysis.
 
 ## Submission
- * Create a new repository for this project called Mmtplotlib-challenge. 
+ * Create a new repository for this project called matplotlib-challenge. 
  * Clone the new repository to your computer.
  * Inside your local Git repository, create a folder for this homework assignment and name it Pymaceuticals.
  * Add your Jupyter notebook to this folder. This will be the main script to run for analysis
